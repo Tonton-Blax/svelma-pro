@@ -1,0 +1,1 @@
+[{"description":"折叠是否打开","type":["boolean"],"defaultvalue":true,"name":"open","values":""},{"description":"打开/关闭时使用的动画","type":["String"],"defaultvalue":"slide","name":"animation","values":"<code>Any animation that ships with Svelte</code>"}]
